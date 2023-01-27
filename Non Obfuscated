@@ -83,7 +83,7 @@ chat.BorderSizePixel = 0
 chat.Position = UDim2.new(0.0267156381, 0, 0.668973863, 0)
 chat.Size = UDim2.new(0, 282, 0, 34)
 chat.Font = Enum.Font.Cartoon
-chat.Text = "chat"
+chat.Text = "fling"
 chat.TextColor3 = Color3.fromRGB(220, 224, 234)
 chat.TextSize = 20.000
 
